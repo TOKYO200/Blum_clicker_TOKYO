@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         Blum Autoclicker
+// @name         Blum Autoclicker VIP
 // @version      1.6
 // @namespace    Violentmonkey Scripts
 // @author       Homous
 // @match        https://telegram.blum.codes/*
 // @grant        none
 // @icon         http://89.106.206.41/homous/BLUMICON.png
-// @downloadURL  https://github.com/TOKYO200/Blum_clicker_TOKYO/blob/main/blum-autoclicker.user.js
-// @updateURL    https://github.com/TOKYO200/Blum_clicker_TOKYO/blob/main/blum-autoclicker.user.js
+// @downloadURL  https://raw.githubusercontent.com/TOKYO200/Blum_clicker_TOKYO/main/blum-autoclicker.user.js
+// @updateURL    https://raw.githubusercontent.com/TOKYO200/Blum_clicker_TOKYO/main/blum-autoclicker.user.js
 // @homepage     https://github.com/TOKYO200/Blum_clicker_TOKYO/blob/
 // ==/UserScript==
 
