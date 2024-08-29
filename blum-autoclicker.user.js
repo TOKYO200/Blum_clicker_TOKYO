@@ -5,7 +5,7 @@
 // @author       Homous
 // @match        https://telegram.blum.codes/*
 // @grant        none
-// @icon         http://89.106.206.41/homous/BLUMICON.png
+// @icon         https://github.com/user-attachments/assets/67c54943-7eec-4fae-9a4b-e63d2ce7fa64
 // @downloadURL  https://raw.githubusercontent.com/TOKYO200/Blum_clicker_TOKYO/main/blum-autoclicker.user.js
 // @updateURL    https://raw.githubusercontent.com/TOKYO200/Blum_clicker_TOKYO/main/blum-autoclicker.user.js
 // @homepage     https://github.com/TOKYO200/Blum_clicker_TOKYO/blob/
